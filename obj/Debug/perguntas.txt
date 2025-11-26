@@ -1,0 +1,30 @@
+Qual e a capital da Franca?
+Londres
+Berlim
+Paris
+Madri
+3
+Quanto e 2 + 2?
+3
+4
+5
+6
+2
+Qual linguagem estamos usando?
+Java
+Python
+C
+Assembly
+3
+Quem descobriu o Brasil?
+Pedro Alvares Cabral
+Cristovao Colombo
+Vasco da Gama
+Dom Pedro I
+1
+O que significa CPU?
+Central Processing Unit
+Central Programming Unit
+Computer Personal Unit
+Control Process Unit
+1
